@@ -1,10 +1,9 @@
 #!/bin/bash
 #include <stdio.h>
-
 /**
  * main - print the string in the put function
  *
- * Return: Always 0 (Succesful)
+ * Return: 0 Always (Succesful)
  */
 int main(void)
 {
