@@ -1,7 +1,7 @@
-#include <stdio.h>
+#include <unistd.h>
 
 /**
- * main - prints a text
+i * main - prints a text
  *
  * Return: Always 1 (Success)
  */
