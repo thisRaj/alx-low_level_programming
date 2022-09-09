@@ -6,9 +6,9 @@
  * Return: returns zero at the end
  */
 int main(void)
-
 {
 	int i, p, m;
+
 	for (i = 0; i <= 9; i++)
 
 	{
