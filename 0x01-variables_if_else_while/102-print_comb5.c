@@ -1,5 +1,4 @@
 #include <stdio.h>
-
 /**
  * main - print possible combination of two 2-digit
  * numbers
@@ -12,7 +11,7 @@ int main(void)
 
 	for (i = 0; i < 100; i++)
 	{
-		for (p = 0; p < 100; j++)
+		for (p = 0; p < 100; p++)
 		{
 			if (p > i)
 			{
