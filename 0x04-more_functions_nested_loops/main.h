@@ -42,4 +42,4 @@ int mul(int, int);
 
 
 
-#endif /* MAIN_H */[B
+#endif /* MAIN_H */
